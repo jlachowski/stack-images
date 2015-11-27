@@ -101,6 +101,7 @@ apt-get install -y --force-yes \
     libbz2-dev \
     libcurl4-openssl-dev \
     libevent-dev \
+    libffi-dev \
     libglib2.0-dev \
     libjpeg-dev \
     libmagickwand-dev \
